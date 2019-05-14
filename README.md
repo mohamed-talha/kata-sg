@@ -24,7 +24,7 @@ In order to display the current Game score of each player
 	<li>If the player who has the ADVANTAGE looses the point, the score is DEUCE</li>
 </ul>  
 
-SPRINT2 : manage a Tennis SET within a tennis match
+<h2>SPRINT2 : manage a Tennis SET within a tennis match</h2>
 
 <h3>User Story 1 :</h3>
 As a tennis referee
